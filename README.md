@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEqual from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-equal@esm/index.mjs';
+import isEqual from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-equal@v0.2.0-esm/index.mjs';
 ```
 
 #### isEqual( z1, z2 )
@@ -96,7 +96,7 @@ var out = isEqual( z1, z2 );
 <script type="module">
 
 import Complex128 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64@esm/index.mjs';
-import isEqual from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-equal@esm/index.mjs';
+import isEqual from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-equal@v0.2.0-esm/index.mjs';
 
 var z1 = new Complex128( 5.0, 3.0 );
 var z2 = new Complex128( 5.0, 3.0 );
